@@ -1,0 +1,23 @@
+
+body {
+    /* font-family: 'Open Sans', sans-serif;
+    font-size: 40px;
+    line-height: 1; */
+    font-family: 'Courgette', cursive;
+    font-size: 32px;
+    line-height: 1;
+    background: url("../images/pink-tulips-flowers-background-card-mothers-day-march-happy-easter-waiting-spring-greeting-wedding-invitation-flat-lay-141125540.jpg");    
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;    
+  }
+
+.container {
+  background: whitesmoke;
+}
+
+#mdpicture {
+  margin: auto;    
+  display: block;
+}
